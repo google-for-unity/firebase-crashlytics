@@ -1,16 +1,16 @@
 {
-    "name": "com.google.firebase.crashlytics",
-    "displayName": "Firebase Crashlytics",
-    "description": "Prioritize and fix stability issues faster.",
-    "version": "10.6.0",
-    "unity": "2018.1",
-    "category": "google-for-unity",
-    "keywords": [
-        "Google",
-        "Firebase",
-        "Crashlytics"
-    ],
-    "dependencies": {
-        "com.google.firebase.core": "10.6.0"
-    }
+  "name": "com.google.firebase.crashlytics",
+  "displayName": "Firebase Crashlytics",
+  "description": "Prioritize and fix stability issues faster.",
+  "version": "10.7.0",
+  "unity": "2018.1",
+  "category": "google-for-unity",
+  "keywords": [
+    "Google",
+    "Firebase",
+    "Crashlytics"
+  ],
+  "dependencies": {
+    "com.google.firebase.core": "10.7.0"
+  }
 }
